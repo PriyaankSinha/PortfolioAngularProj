@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="../../assets/images/portfolio.png"></img>
+<img src="./src/assets/images/portfolio.png"></img>
   </kbd>
 </p>
 
@@ -37,7 +37,7 @@ Angular@12 or higher
 From your command line, clone and run AngularFolio:
 ```bash
 # Clone this repository
-$ git clone https://github.com/sarthakgoenka/Angularfolio
+$ git clone https://github.com/PriyaankSinha/PortfolioAngularProj
 
 # Go into the repository
 $ cd Angularfolio
