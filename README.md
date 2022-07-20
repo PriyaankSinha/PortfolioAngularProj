@@ -40,7 +40,7 @@ From your command line, clone and run AngularFolio:
 $ git clone https://github.com/PriyaankSinha/PortfolioAngularProj
 
 # Go into the repository
-$ cd Angularfolio
+$ cd PortfolioAngularProj
 
 # Install dependencies
 $ npm install
