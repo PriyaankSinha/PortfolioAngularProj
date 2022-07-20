@@ -31,7 +31,7 @@ export class GreetingComponent implements OnInit {
     username: "Priyaank Sinha",
     title: "Hi all, I'm Priyaank",
     subTitle: "A passionate Full Stack Software Developer 🚀 and Gamer 🎮 who has an experience of building Web applications with TypeScript / Angular / C# and some other cool libraries and frameworks and also, started learning and implementing Game Designing concepts using Unity.",
-    resumeLink: "https://drive.google.com/file/d/1YafWBqzJzA60fZJ6_mLRHY0pcBUTOFBZ/view?usp=sharing"
+    resumeLink: "https://drive.google.com/file/d/1EfQ6kLvW1O7QgpHMZkB9Z_sOytXm3F-q/view?usp=sharing"
   }
   constructor() { }
 
