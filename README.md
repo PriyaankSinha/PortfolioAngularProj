@@ -51,8 +51,7 @@ $ ng serve
 Generate a Github personal access token using these [Instructions](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) `Make sure you don't select any scope just generate a simple token and place it under projects.components.ts>graphql.module.ts>token`
 ## Technologies used 🛠️
 
-- [AngularJS](https://angularjs.org/)
-- [apollo-boost](https://www.apollographql.com/docs/react/get-started/) 
+- [Angular](https://angular.io/)
 
 ## Illustrations
 - [UnDraw](https://undraw.co/illustrations)
