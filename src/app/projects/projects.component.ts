@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProjectsComponent implements OnInit {
   projects = [{
-    title: "Code Snippets",
+    title: "My Portfolio",
     desc: "Find code for the simple, attractive and powerfull protfolio",
     image: "../../assets/images/portfolio.png",
     link: "https://github.com/PriyaankSinha/PortfolioAngularProj"

@@ -1,6 +1,5 @@
 .main {
   width: 90%;
-  padding: 20px 10px;
   margin: 0px auto;
   margin-top: 4rem;
 }
@@ -76,6 +75,8 @@
 
 .card {
   transition: all .5s;
+  padding: .5em .5em .5em;
+  border-radius: 1em;
 }
 
 .card:hover {
@@ -86,11 +87,20 @@
 .project_c {
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: space-around;
   margin-top: 45px;
 }
 
 .card-title,
 .card-text {
   text-align: center;
+}
+
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+img{
+  border-radius: 1em;
 }
