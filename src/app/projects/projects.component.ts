@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class ProjectsComponent implements OnInit {
   projects = [{
     title: "Code Snippets",
-    desc: "Find code for the simple, attractive and powerful protfolio",
+    desc: "Find code for the simple, attractive and powerfull protfolio",
     image: "../../assets/images/portfolio.png",
     link: "https://github.com/PriyaankSinha/PortfolioAngularProj"
   },
@@ -17,7 +17,7 @@ export class ProjectsComponent implements OnInit {
     desc: "Switch to Game Design Blog for passionate Gamers and Designers",
     image: "../../assets/images/gameDesign.png",
     link: ""
-  },
+  }
 ]
  
   constructor() { }
