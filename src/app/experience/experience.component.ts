@@ -24,7 +24,7 @@ export class ExperienceComponent implements OnInit {
         color: "#3f703f",
         companylogo: "../../../assets/images/ailogo.png",
         date: "Aug 2019 – Jul 2021",
-        desc: "Acting as a Student Head at AIIT (Amity University) AI Club, as well as Organized events and developed Predictive models for the department as a team",
+        desc: "Acting as a Student Head at AIIT (Amity University) AI Club, as well as Organized events and developed Predictive models for the department as a team.\n Languages: Python, R.\n Tools: Anaconda, Jupyter, R Studio",
       },
       {
         role: "President",
@@ -32,7 +32,7 @@ export class ExperienceComponent implements OnInit {
         color: "#ff9102",
         companylogo: "../../../assets/images/cascadelogo.png",
         date: "Jun 2018 – Aug 2021",
-        desc: "Acting as a Student Head at AIIT (Amity University) Web Dev Club, as well as Organized events and developed websites for the University as a team",
+        desc: "Acting as a Student Head at AIIT (Amity University) Web Dev Club, as well as Organized events and developed websites for the University as a team.\n Languages: HTML, CSS.\n Tools: VS Code, WordPress.",
         },
     ]
   };
