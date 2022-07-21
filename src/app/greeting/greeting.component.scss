@@ -144,18 +144,11 @@ p {
   margin-top: 20px;
 }
 .greeting-text-p {
-  font-size: 22px;
+  font-size: 17px;
   line-height: 40px;
   margin-top: 3rem;
   margin-bottom: 2rem;
 }
-
-/* Media Query */
-//@media (max-width: 1380px) {
-//  .greeting-text-p {
-//    font-size: 20px;
-//  }
-//}
 
 @media (max-width: 768px) {
   .main-button {
