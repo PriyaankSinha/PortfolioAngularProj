@@ -33,7 +33,7 @@ export class ExperienceComponent implements OnInit {
         companylogo: "../../../assets/images/cascadelogo.png",
         date: "Jun 2018 – Aug 2021",
         desc: "Acting as a Student Head at AIIT (Amity University) Web Dev Club, as well as Organized events and developed websites for the University as a team.\n Languages: HTML, CSS.\n Tools: VS Code, WordPress.",
-        },
+      },
     ]
   };
 

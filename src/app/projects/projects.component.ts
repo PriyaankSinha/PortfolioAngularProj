@@ -6,6 +6,19 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./projects.component.scss']
 })
 export class ProjectsComponent implements OnInit {
+  projects = [{
+    title: "Code Snippets",
+    desc: "Find code for the simple, attractive and powerful protfolio",
+    image: "../../assets/images/portfolio.png",
+    link: "https://github.com/PriyaankSinha/PortfolioAngularProj"
+  },
+  {
+    title: "Gamers Mode On",
+    desc: "Switch to Game Design Blog for passionate Gamers and Designers",
+    image: "../../assets/images/gameDesign.png",
+    link: ""
+  },
+]
  
   constructor() { }
 

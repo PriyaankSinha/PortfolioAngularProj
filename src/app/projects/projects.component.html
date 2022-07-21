@@ -1,15 +1,21 @@
 <div class="main" id="projects">
   <h1 class="project-title">My Work 📂</h1>
-  <div class="github__chart project_c">
-    <a href="https://github.com/PriyaankSinha/PortfolioAngularProj" class="card-link">
-      <div class="card" style="width: 22rem;">
-        <img src="../../assets/images/portfolio.png" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title" style="color: black;">Code Snippets</h5>
-          <p class="card-text" style="color: #525b64;">Find code for the simple, attractive and powerful protfolio</p>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="project_c" *ngFor="let projects of projects">
+        <div class="col-md-4">
+          <a href="{{projects.link}}" class="card-link">
+            <div class="card" style="width: 22rem;">
+              <img src="{{projects.image}}" class="card-img-top">
+              <div class="card-body">
+                <h5 class="card-title" style="color: black;">{{projects.title}}</h5>
+                <p class="card-text" style="color: #525b64;">{{projects.desc}}</p>
+              </div>
+            </div>
+          </a>
         </div>
       </div>
-    </a>
+    </div>
   </div>
   <div class="repo-cards-div-main">
   </div>
