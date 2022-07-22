@@ -16,7 +16,7 @@ export class ProjectsComponent implements OnInit {
     title: "Gamers Mode On",
     desc: "Switch to Game Design Blog for passionate Gamers and Designers",
     image: "../../assets/images/gameDesign.png",
-    link: ""
+    link: "https://blog.priyaanksinha.com/"
   }
 ]
  
